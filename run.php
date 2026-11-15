@@ -3,9 +3,10 @@
 
 echo PHP_EOL;
 
-// require __DIR__ . '/manipulacao-de-strings/substr-01.php';
-// require __DIR__ . '/manipulacao-de-strings/str_split-01.php';
-// require __DIR__ . '/manipulacao-de-strings/lcfirst-ucfirst-ucwords-01.php';
-require __DIR__ . '/manipulacao-de-strings/nl2br-explode-implode-join.php';
+// require __DIR__ . '/manipulacao-de-strings/str_ends_with-01.php';
+// require __DIR__ . '/manipulacao-de-strings/str_starts_with-01.php';
+// require __DIR__ . '/manipulacao-de-strings/printf-01.php';
+// require __DIR__ . '/manipulacao-de-strings/similar_text-02.php';
+require __DIR__ . '/manipulacao-de-strings/str_pad-01.php';
 
 echo str_repeat(PHP_EOL, 4);
